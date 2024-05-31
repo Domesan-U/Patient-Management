@@ -49,3 +49,5 @@ build/firebase_core
 build/firebase_assets
 build/cloud_firestore
 lib/constants.dart
+lib/excel.dart
+
